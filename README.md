@@ -1,6 +1,7 @@
 # Exerice 1 - HTML/CSS
 
 1. Créer un nouveau document HTML 'CV.html' qui comportera les éléments suivants :
+   
   1. Un titre de page
   1. Des titres de niveaux différents
   1. Des paragraphes
