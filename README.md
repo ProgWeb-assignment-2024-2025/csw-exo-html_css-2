@@ -1,5 +1,9 @@
 # Exerice 1 - HTML/CSS
 
+Ce premier exercice a pour objectif de réaliser votre premier dépôt sur Github.
+
+## Enoncé
+
 1. Créer un nouveau document HTML 'CV.html' qui comportera les éléments suivants : 
    1. Un titre de page
    1. Des titres de niveaux différents
@@ -18,3 +22,7 @@ Utiliser les balises de la famille table pour présenter les données structuré
    1. Un lien permettra de revenir au document cv.htm.
 
 Les deux documents produits seront validés par l'outil de validation du W3C. Attention à l'écriture des URLS, il faut qu'ils continuent à fonctionner une fois uploadés sur un serveur de sites Web.
+
+## Premier dépôt sur Github
+
+[Vous trouverez ici comment utiliser les retours github lors des dépôts.](depotgit.md)
