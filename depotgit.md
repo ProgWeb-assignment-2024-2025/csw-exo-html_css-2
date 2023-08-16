@@ -31,17 +31,6 @@ et les fichiers suivant :
 - `README.md` : **Fichier à ne pas éditer**. Ce fichier permet de documenter le projet. Ici il est utilisé pour fournir l'énoncé. 
 - `.eslint.json` : **Fichier à ne pas éditer**. Ce fichier décrit les vérifications qui seront effectuées sur la syntaxe de votre code Javascript.
 
-
----
-***A GARDER POUR 1er EXO JS***
-- `square.js` : **Fichier à éditer**. Il contient déjà le prototype de la fonction à réaliser ainsi que les lignes de code suivante permettant de tester le code fourni. 
-```javascript
-if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
-    module.exports = square;  // Export pour pouvoir l'utiliser dans le fichier de test.  
-}
-```
-- `square.test.js` : **Fichier à ne pas éditer**. Ce fichier est utilisé pour réalisé des tests unitaires dans le contexte du développement en JavaScript.
----
 ## Dépôt des fichiers sur GitHub
 Une fois les modifications réalisées. Le projet peut-être déposé sur Github. Voici la séquence de commande à réaliser.
 ```
