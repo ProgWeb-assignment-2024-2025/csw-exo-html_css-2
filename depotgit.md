@@ -1,5 +1,5 @@
 # Premier dépôt sur Github
-[retour à l'énoncé](README.md)
+[Retour à l'énoncé](README.md)
 
 ## Récupération des fichiers de l'exercice
 Pour récupérer les fichiers fournis pour réaliser l'exercice demandé vous devrez utiliser la commande suivante :
