@@ -13,12 +13,11 @@
   - Ajoutez un titre de page avec l'élément `<title>`.
   - Utilisez des titres de différents niveaux (`<h1>`, `<h2>`, etc.) pour segmenter votre CV.
   - Intégrez des paragraphes `<p>` pour décrire diverses expériences ou compétences.
-  - Utilisez `<br>` pour effectuer des retours à la ligne lorsque c'est nécessaire.
   
 - **Liens et médias** :
   - Ajoutez des liens internes au document à l'aide de l'élément `<a>` et des ancres.
   - Créez un lien vers une ressource externe, par exemple votre profil LinkedIn.
-  - Intégrez une image personnelle ou symbolique stockée localement dans le même répertoire que votre document à l'aide de l'élément `<img>`.
+  - Intégrez une image personnelle ou symbolique stockée localement à l'aide de l'élément `<img>`.
   - Ajoutez un lien vers un second document HTML, `motivation.html`.
   
 - **Contenu structuré** :
